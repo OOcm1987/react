@@ -20,7 +20,7 @@ function App() {
         </p>
 
         <p>
-          Edit <code>src/App.js</code> and save to reload. recargar
+          Edit <code>src/App.js</code> and save to reload. recargar mas de una vez
         </p>
 
         <ul>
